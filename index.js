@@ -2,7 +2,7 @@ var sm = require('source-map');
 var fs = require('fs');
 
 if (process.argv.length !== 5) {
-  console.log('Usage: ' + process.argv[1] + ' source.map.js lineNo colNo');
+  console.log('Usage: node ' + process.argv[1] + ' source.map.js lineNo colNo');
   process.exit(1);
 }
 
