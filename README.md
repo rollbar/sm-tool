@@ -1,5 +1,5 @@
 # Sourcemap tool
 
 ```
-Usage: ./index.js source.map.js lineNo colNo
+Usage: ./index.js source.js.map lineNo colNo
 ```
